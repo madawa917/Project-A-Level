@@ -1,4 +1,4 @@
-# note_app
+Application for ALevel students to get help with notes
 
 A new Flutter project.
 
